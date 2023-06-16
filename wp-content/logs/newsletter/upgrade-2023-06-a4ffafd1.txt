@@ -1,0 +1,28 @@
+15-06-2023 15:33:31 - INFO  - 7.8.5 - 46.4 MB/512 MB - sodeygabriel123@gmail.com > Start upgrade from 0.0.0
+15-06-2023 15:33:31 - INFO  - 7.8.5 - 49.3 MB/512 MB - sodeygabriel123@gmail.com > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+15-06-2023 15:33:31 - INFO  - 7.8.5 - 49.3 MB/512 MB - sodeygabriel123@gmail.com > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+15-06-2023 15:33:31 - INFO  - 7.8.5 - 49.4 MB/512 MB - sodeygabriel123@gmail.com > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+15-06-2023 15:33:31 - INFO  - 7.8.5 - 49.3 MB/512 MB - sodeygabriel123@gmail.com > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+15-06-2023 15:33:31 - INFO  - 7.8.5 - 49.3 MB/512 MB - sodeygabriel123@gmail.com > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+15-06-2023 15:33:31 - INFO  - 7.8.5 - 49.4 MB/512 MB - sodeygabriel123@gmail.com > Backing up options of 0.0.0
+15-06-2023 15:33:31 - INFO  - 7.8.5 - 49.3 MB/512 MB - sodeygabriel123@gmail.com > End
